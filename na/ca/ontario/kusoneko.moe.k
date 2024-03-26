@@ -1,16 +1,16 @@
 {
-    "137.220.55.93:32307":{
+    "155.138.135.37:32307":{
         "contact":"kusoneko@kusoneko.moe",
-        "gpg":"5F580A604D06074DF62435268FDECBBC178C72E1",
+        "gpg":"C1D5B053E62DD03F0A984192ED30AF53C7DC4600",
         "location":"toronto",
         "login":"public-peer",
         "password":"242yl4g4nmu0rygusyhxu9xd13lrhuj",
         "peerName":"kusoneko.moe",
         "publicKey":"nvl82112jgj26sgv6r7sbuqc7wh1n7w1stsj327lbcu8n2yycf20.k"
     },
-    "[2001:19f0:b001:379:5400:3ff:fe68:1cc6]:32307":{
+    "[2001:19f0:b002:17a:5400:4ff:fecf:6eda]:32307":{
         "contact":"kusoneko@kusoneko.moe",
-        "gpg":"5F580A604D06074DF62435268FDECBBC178C72E1",
+        "gpg":"C1D5B053E62DD03F0A984192ED30AF53C7DC4600",
         "location":"toronto",
         "login":"public-peer",
         "password":"242yl4g4nmu0rygusyhxu9xd13lrhuj",
